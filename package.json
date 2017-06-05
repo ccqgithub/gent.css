@@ -17,8 +17,7 @@
   },
   "homepage": "https://github.com/ccqgithub/gent.css#readme",
   "dependencies": {
-    "normalize.css": "^7.0.0",
-    "postcss": "^4.1.9"
+    "normalize.css": "^7.0.0"
   },
   "devDependencies": {
     "chai": "^2.3.0",
