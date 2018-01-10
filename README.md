@@ -20,6 +20,7 @@
 - `gent.css/css/normalize/reset.css`, simple reset.
 - `gent.css/css/safe-area.css`, iPhoneX safe area variables.
 
-> docs
+## docs
 
 - [media query break points](docs/media-break-points.md).
+- [safe-area](docs/safe-area.md).
