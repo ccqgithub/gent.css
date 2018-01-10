@@ -16,8 +16,9 @@
 
 ## css
 
-- `gent.css/css/normalize/normalize`, is reference to [normalize.css](https://github.com/necolas/normalize.css).
-- `gent.css/css/normalize/reset`, simple reset.
+- `gent.css/css/normalize/normalize.css`, is reference to [normalize.css](https://github.com/necolas/normalize.css).
+- `gent.css/css/normalize/reset.css`, simple reset.
+- `gent.css/css/safe-area.css`, iPhoneX safe area variables.
 
 > docs
 
